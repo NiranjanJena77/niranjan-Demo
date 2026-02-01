@@ -1,7 +1,6 @@
 # niranjan-Demo
 This is my first Git repository.
-
-
-## Author
+<br>
+Author
 Niranjan Jena
 
